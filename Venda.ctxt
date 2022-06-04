@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Venda
+comment1.params=
+comment1.target=Venda()
+comment2.params=
+comment2.target=java.lang.String\ getData()
+comment3.params=
+comment3.target=Item[]\ getItens()
+comment4.params=data
+comment4.target=void\ setData(java.lang.String)
+comment5.params=itens
+comment5.target=void\ setItens(Item[])
+comment6.params=
+comment6.target=double\ total()
+numComments=7
